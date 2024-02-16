@@ -1,0 +1,28 @@
+WELCOME TO MY PYTHON JOURNEY README FILE 
+
+DATE: 16TH DAY OF FEBRUARY 2024.
+TIME: 8:00PM.
+
+1. PRINT FUNCTION IN PYTHON:
+
+The print function helps you to display a content on the browser(client side) of terminal(server side).
+
+2. VARIABLE FUNCTION:
+
+A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc.
+
+In variable there is what we call "concatenation" which helps you with the combination of "string" and "integer". eg: 
+
+age = 20
+print("I am " +age, )
+
+Note that you can only use the "," to concatenate an integer but in the case of string we can use both "," and "+" to concatenate.
+
+STRING:
+
+Strings are just plain written text. eg:
+
+"Hello Welcome to my python repo"print.py
+
+The "\n" adds a break to our strings integer which is usually used when you want the value to start from a new line.
+
