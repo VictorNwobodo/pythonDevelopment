@@ -27,3 +27,12 @@ print(university.upper().isupper())
 #getting the "length" of a string or integer we use the function "len(the variable)"
 
 print(len(state))
+
+#finding the index number of a variable string by using the ".index()".
+
+stack = "Frontend Dev"
+print(stack.index('Frontend'))
+
+#What if we decide to change the variable from "Frontend" to "Backend"? we use the ".replace" function.
+
+print(stack.replace('Frontend', 'Backend'))
