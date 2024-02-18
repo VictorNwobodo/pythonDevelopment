@@ -16,3 +16,15 @@ print(type(numbers))
 print(min(numbers))
 print(numbers)
 
+# Allows various datatype.
+
+boo = (True, False, True)
+print(boo)
+
+strings = ('Home', 'Market', 'Crpto')
+print(strings)
+
+# Turples also accepting combinations of different datatypes.
+mixed = ('hello', True, 23, False, 34.5, 'State', 30 + 34)
+print(mixed)
+
